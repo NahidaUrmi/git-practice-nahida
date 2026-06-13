@@ -2,5 +2,19 @@
 
 
 
-This project is for Git and GitHub practice.
+This project demonstrates:
+
+
+
+\- Git initialization
+
+\- Git commits
+
+\- Branching
+
+\- Merging
+
+\- GitHub push
+
+\- Basic calculator functions
 
